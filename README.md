@@ -2,7 +2,7 @@
 
 A robust PyTorch implementation for multi-label image classification that gracefully handles missing labels (NA values) in the training data.
 
-## � Quick Start
+## Quick Start
 
 ```bash
 # 1. Install dependencies
@@ -21,7 +21,7 @@ python evaluate.py --model_path checkpoints/resnet50_*/best_model.pth --model_ty
 python plot_loss.py --loss_file checkpoints/resnet50_*/training_losses.json --output loss_plot.png
 ```
 
-## �📋 Problem Statement
+## 📋 Problem Statement
 
 This project tackles multi-label image classification where:
 - Each image can have multiple labels (binary classification for each label)
