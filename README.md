@@ -194,7 +194,7 @@ python train.py \
 - `--num_workers`: Number of data loading workers (default: 4)
 - `--output_dir`: Directory to save checkpoints (default: checkpoints)
 
-## � Inference
+## Inference
 
 Run inference on a single image:
 ```bash
@@ -243,7 +243,7 @@ python plot_loss.py \
 - Title: AimonK_multilabel_problem
 
 The plot is automatically saved during training in the checkpoint directory.
-## �📊 Evaluation
+## 📊 Evaluation
 
 Evaluate a trained model:
 ```bash
