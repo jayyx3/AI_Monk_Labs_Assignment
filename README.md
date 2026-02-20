@@ -391,7 +391,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - 📧 Email: joshijayy421@gmail.com
 - 📱 Phone: +91 8875549960
-- 💼 LinkedIn: [https://www.linkedin.com/in/jay-joshi](https://www.linkedin.com/in/jay-joshi)
+- 💼 LinkedIn: [https://www.linkedin.com/in/jay-joshi](https://www.linkedin.com/in/jay-joshi-75b75124b/)
 - 🐙 GitHub: [https://github.com/jayyx3](https://github.com/jayyx3)
 - 🌐 Portfolio: [https://jay-portfolio-ten-tawny.vercel.app/](https://jay-portfolio-ten-tawny.vercel.app/)
 
